@@ -8,9 +8,7 @@
 - **显示完整的身份证号码**：程序将显示完整的身份证号码。
 - **美观的用户界面**：简洁且用户友好的界面设计。
  ## 演示网址
- 演示网址:https://share.htmlput.com/p/pz1luvdy7s?lang=zh
- 温馨提示:由于该域名的服务器在境外,该网站使用免费托管服务。
- 请勿输入任何敏感信息,如因访问该网站时造成的所有损失,该项目开发者不承担任何责任！！！
+ 演示网址:https://twilightsnow2009.github.io/id-card-check-code-generator/
 
 ## 使用方法
 1. 打开 [身份证校验码生成器](https://twilightsnow2009.github.io/id-card-check-code-generator/)。
